@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      adithyar
+HostName                       big12.seas.upenn.edu
+ProcessIdentifier              16589
+ProcessCreationTime_UTC        1702164571
+ProcessCreationTime_Readable   Sat Dec  9 18:29:31 2023 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /mnt/castor/seas_home/a/adithyar/cadence616/CLB_Project/DFlipFlop/schematic/sch.oa.cdslck
+TimeEditLocked                 Sat Dec  9 18:36:38 2023 EST
